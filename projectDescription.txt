@@ -1,0 +1,9 @@
+This is a Airport Flight Management System.In this projects you will Know about 
+1.Flight Ticket.
+2.Flight Route.
+3.Airport of Different Country
+4.Travel Agency
+5.Resurve or Cancle A Trip
+6.Convert Currency for Different Country and so on
+
+This project is Build in Using Python OOP 
